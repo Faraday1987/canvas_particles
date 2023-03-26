@@ -2,6 +2,9 @@
 
 #### Canvas, JS
 #
+`BASH
+    Just run in server 🥱
+`
 #  
 <p align="center" >
      <img width="600" heigth="600" src="https://res.cloudinary.com/damjgysop/image/upload/v1679803581/canvas/canvas_2_ciyvox.gif" target="_blank">
